@@ -1,0 +1,39 @@
+.wrapper-component {
+    width: 350px;
+    height: 350px;
+    background-color: #F5D6B4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.semi1 {
+    background-color: #dd6b4d;
+    width: 60px;
+    height: 30px;
+    border-top-right-radius: 110px;
+    border-top-left-radius: 110px;
+    transform: rotate(180deg);
+    margin-top: 60px;
+    margin-left: 0px;
+    position: absolute;
+}
+
+.semi2 {
+    background-color: #dd6b4d;
+    width: 60px;
+    height: 30px;
+    border-top-right-radius: 110px;
+    border-top-left-radius: 110px;
+
+}
+
+.semi3 {
+    background-color: #dd6b4d;
+    width: 60px;
+    height: 30px;
+    border-top-right-radius: 110px;
+    border-top-left-radius: 110px;
+    transform: rotate(180deg);
+
+}
